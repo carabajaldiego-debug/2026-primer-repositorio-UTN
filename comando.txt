@@ -1,3 +1,7 @@
+comando git
+
+git dtstud
+d un estatis del repositorioes como preguntarles a tu asesor financiero. Todo esta bien? o como esta todo?
 pasos para crear un repositorio:
 
 git init
@@ -5,3 +9,5 @@ crea un repositorio de git en el proyecto donde se ejecuta
 
 git add .
 añade los archivos sin seguimientos al repositorio de git
+
+git 
